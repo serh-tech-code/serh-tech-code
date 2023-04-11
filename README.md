@@ -38,6 +38,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/serh-tech-code/serh-tech-code/blob/output/snake.svg" alt="Snake animation" />
+<!--img src="https://raw.githubusercontent.com/serh-tech-code/serh-tech-code/blob/output/snake.svg" alt="Snake animation" /-->
+<img src="/.github/workflows/snake.svg" alt="Snake animation" />
 
 ###
